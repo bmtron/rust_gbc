@@ -1,1 +1,4 @@
 /target
+/src/cartridge/*.gbc
+/src/cartridge/*.txt
+
